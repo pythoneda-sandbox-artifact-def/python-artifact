@@ -89,16 +89,16 @@
         ]
       },
       "locked": {
-        "lastModified": 1701106728,
-        "narHash": "sha256-xH6Lctt+wC+02ACr5VLU3EliHzRq2FzMGbk6GLAWZiQ=",
+        "lastModified": 1701169087,
+        "narHash": "sha256-GBihDO8VXI3sozYdYwEE7Q5L991Ydyla1xZb8ZKXVZg=",
         "owner": "pythoneda-shared-artifact-def",
         "repo": "shared",
-        "rev": "2322babb479f227a9665fa15cd1f9e1f7e679894",
+        "rev": "b8515e3528699ef34c13690d0a6b643f6f3b5b88",
         "type": "github"
       },
       "original": {
         "owner": "pythoneda-shared-artifact-def",
-        "ref": "0.0.11",
+        "ref": "0.0.12",
         "repo": "shared",
         "type": "github"
       }
@@ -119,16 +119,16 @@
         ]
       },
       "locked": {
-        "lastModified": 1701106523,
-        "narHash": "sha256-5banrGoPMPpgSUqeUJLJQCMblgdYRv0nv+avjKOWX0g=",
+        "lastModified": 1701167559,
+        "narHash": "sha256-NBiQiKpCCbOKfquAqu3FPKFS1OcoM8vF2FZVD3nuP4o=",
         "owner": "pythoneda-shared-git-def",
         "repo": "shared",
-        "rev": "b1f3152d4934bab18c6457b6127b79347edde01c",
+        "rev": "9ee439f5d7a26d35e7f156ac30b1ac93fe6642a8",
         "type": "github"
       },
       "original": {
         "owner": "pythoneda-shared-git-def",
-        "ref": "0.0.7",
+        "ref": "0.0.8",
         "repo": "shared",
         "type": "github"
       }
@@ -153,16 +153,16 @@
         "stringtemplate3": "stringtemplate3"
       },
       "locked": {
-        "lastModified": 1701106607,
-        "narHash": "sha256-0mPQMSTUPgLt5wDRy6g3JGMqJFZTgtHzoFeJwgSV9Cs=",
+        "lastModified": 1701167651,
+        "narHash": "sha256-WDHh33bB+x6jpRXMI4lqB2VZckHhX8+0KrFGcevyWao=",
         "owner": "pythoneda-shared-nix-flake-def",
         "repo": "shared",
-        "rev": "33610ff8858cb05bc03e5696e1f68c75339baea6",
+        "rev": "0e6aeaf9778f3d9798ae23e4a3a88fbb7babdf1a",
         "type": "github"
       },
       "original": {
         "owner": "pythoneda-shared-nix-flake-def",
-        "ref": "0.0.9",
+        "ref": "0.0.10",
         "repo": "shared",
         "type": "github"
       }
