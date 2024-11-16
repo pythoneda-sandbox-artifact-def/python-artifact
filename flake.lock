@@ -154,16 +154,16 @@
         "stringtemplate3": "stringtemplate3"
       },
       "locked": {
-        "lastModified": 1731751400,
-        "narHash": "sha256-+hxxb26ahCtVvZTYR3xL5hDRCF9dUf4u8KsD4s/7dk4=",
+        "lastModified": 1731778564,
+        "narHash": "sha256-VUun5hhV2TmNcq74GGUgZQXvWeCeSxX6cLVx5LfmdKY=",
         "owner": "pythoneda-shared-nix-flake-def",
         "repo": "shared",
-        "rev": "eabf321741dbab55d2124ec67616c8b6f4fded15",
+        "rev": "6555f04a2feb31205033ce461c5d628ce1cdecdc",
         "type": "github"
       },
       "original": {
         "owner": "pythoneda-shared-nix-flake-def",
-        "ref": "0.0.61",
+        "ref": "0.0.62",
         "repo": "shared",
         "type": "github"
       }
@@ -307,17 +307,17 @@
       },
       "locked": {
         "dir": "stringtemplate3",
-        "lastModified": 1707764998,
-        "narHash": "sha256-Op0o7E32KYnNOGCAgdwtcauM19gKdQYCXeMHaDbbKtg=",
+        "lastModified": 1731751186,
+        "narHash": "sha256-k0/qxz31tZpuRuTIXKnEGlIbA3mDDrwZ7tMSx20W9CA=",
         "owner": "rydnr",
         "repo": "nix-flakes",
-        "rev": "b1b4c9c15a5d56cad76bfbbb5c1cd9340aa59409",
+        "rev": "3310eb20720fa14c17f8b21958814165d79dc2ec",
         "type": "github"
       },
       "original": {
         "dir": "stringtemplate3",
         "owner": "rydnr",
-        "ref": "0.1.17",
+        "ref": "stringtemplate3-3.1c",
         "repo": "nix-flakes",
         "type": "github"
       }
