@@ -52,16 +52,16 @@
         ]
       },
       "locked": {
-        "lastModified": 1734069695,
-        "narHash": "sha256-52nHqjQlCtPm2xccY+PCjky6H80ZFSeuXKNBzsrwfa0=",
+        "lastModified": 1734085326,
+        "narHash": "sha256-kvIwC+ZFgzdLda3Xyuq4synP7kkbkSFkRtjybo2AfSw=",
         "owner": "pythoneda-shared-artifact-def",
         "repo": "events",
-        "rev": "e099abca54c856faab88c50b0a19702e7e745850",
+        "rev": "c2ce64a4b4eeb3e5a1d1ebc46930c88ff7b57033",
         "type": "github"
       },
       "original": {
         "owner": "pythoneda-shared-artifact-def",
-        "ref": "0.0.76",
+        "ref": "0.0.77",
         "repo": "events",
         "type": "github"
       }
@@ -89,16 +89,16 @@
         ]
       },
       "locked": {
-        "lastModified": 1734070053,
-        "narHash": "sha256-SIRUpaqdw3+zR/ZI5h53jOS+Dlr2H8T8L3yxCCfMO6Y=",
+        "lastModified": 1734085684,
+        "narHash": "sha256-OZgAwSOTQYkL8/InqjA4w+Y3d5AwvnK2H34zDvVPOls=",
         "owner": "pythoneda-shared-artifact-def",
         "repo": "shared",
-        "rev": "8f2955f9d5fad52763d1108e5d66da8f4f4a99f6",
+        "rev": "75140e6042b42712bc12f61d894caab8c2a94fb6",
         "type": "github"
       },
       "original": {
         "owner": "pythoneda-shared-artifact-def",
-        "ref": "0.0.86",
+        "ref": "0.0.87",
         "repo": "shared",
         "type": "github"
       }
@@ -120,16 +120,16 @@
         "pythoneda-shared-pythonlang-shell": "pythoneda-shared-pythonlang-shell"
       },
       "locked": {
-        "lastModified": 1734069892,
-        "narHash": "sha256-PGjOd4vyHrDVuhmYiQ9wAxadfgWBZtpIzIA033iTAIA=",
+        "lastModified": 1734085523,
+        "narHash": "sha256-bAiF7TExPKrNuTEGVYDfHjxA3Nhii4v3faHvUbuwuY0=",
         "owner": "pythoneda-shared-git-def",
         "repo": "shared",
-        "rev": "93191cbd0e1d624c7d04b79052dbb535a7ca65f7",
+        "rev": "3fa14b9e7a7e28661457cf5957b035c6b864162b",
         "type": "github"
       },
       "original": {
         "owner": "pythoneda-shared-git-def",
-        "ref": "0.0.77",
+        "ref": "0.0.78",
         "repo": "shared",
         "type": "github"
       }
@@ -154,16 +154,16 @@
         "stringtemplate3": "stringtemplate3"
       },
       "locked": {
-        "lastModified": 1734069966,
-        "narHash": "sha256-BYVB8qq1VFRCrOalwUDymOIqDYtwTYrJeN4V7KLswyc=",
+        "lastModified": 1734085597,
+        "narHash": "sha256-6WipIzg++lJC4OykxghVo3G1eKFHJyXrQ8wRAi+m3Eg=",
         "owner": "pythoneda-shared-nix-flake-def",
         "repo": "shared",
-        "rev": "0432c73a2955813d3c395447c025681412fa23be",
+        "rev": "6e526264b0de63daff1a66e97846f8cdb08c27ed",
         "type": "github"
       },
       "original": {
         "owner": "pythoneda-shared-nix-flake-def",
-        "ref": "0.0.83",
+        "ref": "0.0.84",
         "repo": "shared",
         "type": "github"
       }
@@ -220,7 +220,7 @@
       },
       "original": {
         "owner": "pythoneda-shared-pythonlang-def",
-        "ref": "0.0.102",
+        "ref": "0.0.103",
         "repo": "domain",
         "type": "github"
       }
@@ -247,7 +247,7 @@
       },
       "original": {
         "owner": "pythoneda-shared-pythonlang-def",
-        "ref": "0.0.102",
+        "ref": "0.0.103",
         "repo": "domain",
         "type": "github"
       }
@@ -269,16 +269,16 @@
         "pythoneda-shared-pythonlang-domain": "pythoneda-shared-pythonlang-domain"
       },
       "locked": {
-        "lastModified": 1734069824,
-        "narHash": "sha256-8ffIKEs4nf64c/orSXApe4x5tOavPg155fj/QnJQyvE=",
+        "lastModified": 1734085455,
+        "narHash": "sha256-g00uPHJENVQHHv4sKu3sfF3pV+TqCuVTJvDOhvdBy5I=",
         "owner": "pythoneda-shared-pythonlang-def",
         "repo": "shell",
-        "rev": "b39c35624cc6027097ffc3e1734c764f2dd8bcd9",
+        "rev": "b2b26ba2bb317d3eb7593e9ae47b769a965ce884",
         "type": "github"
       },
       "original": {
         "owner": "pythoneda-shared-pythonlang-def",
-        "ref": "0.0.43",
+        "ref": "0.0.44",
         "repo": "shell",
         "type": "github"
       }
