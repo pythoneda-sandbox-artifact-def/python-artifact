@@ -146,7 +146,7 @@
 
             unpackPhase = ''
               command cp -r ${src} .
-              sourceRoot=$(command fls | command grep -v env-vars)
+              sourceRoot=$(command ls | command grep -v env-vars)
               command chmod +w $sourceRoot
               command cp ${pyprojectToml} $sourceRoot/pyproject.toml
             '';
